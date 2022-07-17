@@ -1,0 +1,6 @@
+﻿  day2.c
+D:\32406\桌面\protest\day2\day2\day2.c(8,13): error C2146: 语法错误: 缺少“)”(在标识符“a”的前面)
+D:\32406\桌面\protest\day2\day2\day2.c(8,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\32406\桌面\protest\day2\day2\day2.c(8,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\32406\桌面\protest\day2\day2\day2.c(8,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
+D:\32406\桌面\protest\day2\day2\day2.c(8,22): error C2059: 语法错误:“)”

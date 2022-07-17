@@ -1,0 +1,6 @@
+﻿  day5.c
+D:\32406\桌面\protest\day5\day5\day5.c(6,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\32406\桌面\protest\day5\day5\day5.c(6,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\32406\桌面\protest\day5\day5\day5.c(6,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\32406\桌面\protest\day5\day5\day5.c(6,10): message : 此参数用作缓冲区大小
+  day5.vcxproj -> D:\32406\桌面\protest\day5\x64\Debug\day5.exe
